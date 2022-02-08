@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\updatetext.cs" />
+    <Compile Include="Assets\FirstScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
