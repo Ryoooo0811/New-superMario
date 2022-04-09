@@ -58,17 +58,19 @@
   <ItemGroup>
     <Compile Include="Assets\Array.cs" />
     <Compile Include="Assets\variable_type.cs" />
+    <Compile Include="Assets\practice.cs" />
     <Compile Include="Assets\If.cs" />
     <Compile Include="Assets\updatetext.cs" />
+    <Compile Include="Assets\Method.cs" />
     <Compile Include="Assets\FirstScript.cs" />
     <Compile Include="Assets\Calculation.cs" />
     <Compile Include="Assets\List_and_Foreach.cs" />
     <Compile Include="Assets\While_and_For.cs" />
-    <Compile Include="Assets\Switch.cs" />
-    <Compile Include="Assets\Method.cs" />
-    <Compile Include="Assets\practice.cs" />
     <Compile Include="Assets\maximum.cs" />
+    <Compile Include="Assets\Switch.cs" />
     <Compile Include="Assets\enumeration.cs" />
+    <Compile Include="Assets\odd_sum.cs" />
+    <Compile Include="Assets\multiple_of_3.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
