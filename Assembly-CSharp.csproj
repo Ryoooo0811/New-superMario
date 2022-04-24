@@ -75,6 +75,9 @@
     <Compile Include="Assets\PlayerModel.cs" />
     <Compile Include="Assets\PanelScript.cs" />
     <Compile Include="Assets\enumeration.cs" />
+    <Compile Include="Assets\player.cs" />
+    <Compile Include="Assets\playercreate.cs" />
+    <Compile Include="Assets\GameManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

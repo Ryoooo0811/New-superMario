@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637857818616546575
-    m_Hash: 1885473602
+      ticks: 637863152412815580
+    m_Hash: 3054215164
   m_LockFileStatus:
     m_FilePath: D:/UnityProject/New-superMario/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637857818702221216
-    m_Hash: 2840708972
+      ticks: 637863152412865507
+    m_Hash: 2495526297
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,12 +22,12 @@ m_LocalPackages:
 m_ProjectPath: D:/UnityProject/New-superMario/Packages
 m_EditorVersion: 2021.3.0f1 (6eacc8284459)
 m_ResolvedPackages:
-- packageId: com.unity.collab-proxy@1.15.15
+- packageId: com.unity.collab-proxy@1.15.16
   testable: 0
   isDirectDependency: 1
-  version: 1.15.15
+  version: 1.15.16
   source: 1
-  resolvedPath: D:\UnityProject\New-superMario\Library\PackageCache\com.unity.collab-proxy@1.15.15
+  resolvedPath: D:\UnityProject\New-superMario\Library\PackageCache\com.unity.collab-proxy@1.15.16
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -143,23 +143,23 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637828649420000000
+  datePublishedTicks: 637847776260000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: abf10445fb869983dbe4f8f87ec63c58f4cd36e0
+    revision: 714a2838c2d55add3d0accf539488f96caa757b2
     path: 
   unityLifecycle:
     version: 1.15.15
     nextVersion: 
-- packageId: com.unity.ide.rider@3.0.13
+- packageId: com.unity.ide.rider@3.0.14
   testable: 0
   isDirectDependency: 1
-  version: 3.0.13
+  version: 3.0.14
   source: 1
-  resolvedPath: D:\UnityProject\New-superMario\Library\PackageCache\com.unity.ide.rider@3.0.13
+  resolvedPath: D:\UnityProject\New-superMario\Library\PackageCache\com.unity.ide.rider@3.0.14
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -205,9 +205,11 @@ m_ResolvedPackages:
     - 3.0.10
     - 3.0.12
     - 3.0.13
+    - 3.0.14
     compatible:
     - 3.0.13
-    verified: 3.0.13
+    - 3.0.14
+    verified: 3.0.14
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -224,13 +226,13 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637837345400000000
+  datePublishedTicks: 637861245770000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
-    revision: 26f15837ac7ebf5038274dcc39e2b79da5fcdc93
+    revision: e6bfc84a08a0876a2c20ec2ee0883b5ece331dfd
     path: 
   unityLifecycle:
     version: 3.0.13
@@ -426,10 +428,12 @@ m_ResolvedPackages:
     - 1.1.29
     - 1.1.30
     - 1.1.31
+    - 2.0.1-exp.1
     - 2.0.1-pre.12
     - 2.0.1-pre.18
     compatible:
     - 1.1.31
+    - 2.0.1-exp.1
     - 2.0.1-pre.12
     - 2.0.1-pre.18
     verified: 1.1.31
