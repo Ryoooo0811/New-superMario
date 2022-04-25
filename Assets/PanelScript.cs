@@ -6,6 +6,9 @@ public class PanelScript : MonoBehaviour
 {
   private void OnTriggerEnter(Collider other)
   {
-    Debug.Log(other.name);
+    if (other.gameObject.tag == "Player")
+    {
+      Debug.Log(other.name);
+    }
   }
 }
