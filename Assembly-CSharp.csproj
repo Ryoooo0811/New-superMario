@@ -56,28 +56,29 @@
     <Analyzer Include="D:\Program Files\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Array.cs" />
-    <Compile Include="Assets\variable_type.cs" />
-    <Compile Include="Assets\practice.cs" />
-    <Compile Include="Assets\If.cs" />
-    <Compile Include="Assets\updatetext.cs" />
-    <Compile Include="Assets\Method.cs" />
-    <Compile Include="Assets\class_method.cs" />
-    <Compile Include="Assets\FirstScript.cs" />
-    <Compile Include="Assets\PlayerMovement.cs" />
-    <Compile Include="Assets\Calculation.cs" />
-    <Compile Include="Assets\odd_sum.cs" />
-    <Compile Include="Assets\List_and_Foreach.cs" />
-    <Compile Include="Assets\While_and_For.cs" />
-    <Compile Include="Assets\multiple_of_3.cs" />
-    <Compile Include="Assets\maximum.cs" />
-    <Compile Include="Assets\Switch.cs" />
-    <Compile Include="Assets\PlayerModel.cs" />
-    <Compile Include="Assets\PanelScript.cs" />
-    <Compile Include="Assets\enumeration.cs" />
-    <Compile Include="Assets\player.cs" />
-    <Compile Include="Assets\playercreate.cs" />
-    <Compile Include="Assets\GameManager.cs" />
+    <Compile Include="Assets\previous\Array.cs" />
+    <Compile Include="Assets\previous\variable_type.cs" />
+    <Compile Include="Assets\previous\practice.cs" />
+    <Compile Include="Assets\previous\If.cs" />
+    <Compile Include="Assets\previous\updatetext.cs" />
+    <Compile Include="Assets\previous\Method.cs" />
+    <Compile Include="Assets\previous\class_method.cs" />
+    <Compile Include="Assets\previous\player.cs" />
+    <Compile Include="Assets\previous\FirstScript.cs" />
+    <Compile Include="Assets\previous\PlayerMovement.cs" />
+    <Compile Include="Assets\previous\Calculation.cs" />
+    <Compile Include="Assets\previous\odd_sum.cs" />
+    <Compile Include="Assets\previous\List_and_Foreach.cs" />
+    <Compile Include="Assets\previous\GameManager.cs" />
+    <Compile Include="Assets\previous\While_and_For.cs" />
+    <Compile Include="Assets\previous\multiple_of_3.cs" />
+    <Compile Include="Assets\previous\maximum.cs" />
+    <Compile Include="Assets\previous\Switch.cs" />
+    <Compile Include="Assets\previous\playercreate.cs" />
+    <Compile Include="Assets\previous\PlayerModel.cs" />
+    <Compile Include="Assets\previous\PanelScript.cs" />
+    <Compile Include="Assets\previous\enumeration.cs" />
+    <Compile Include="Assets\previous\sceanscript.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
